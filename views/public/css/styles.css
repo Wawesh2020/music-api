@@ -1,0 +1,13 @@
+body {
+
+    font-size: 16px;
+}
+
+a,
+a:active,
+
+a:hover,
+a:visted {
+    color: blue;
+    text-decoration: none;
+}
