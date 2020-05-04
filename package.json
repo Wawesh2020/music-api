@@ -8,8 +8,7 @@
     "eslint": "./node_modules/.bin/eslint --format codeframe .",
     "lint": "npm run lint && npm run puglint",
     "lint:fix": "./node_modules/.bin/eslint --fix --format codeframe .",
-    "puglint": "./node_modules/.bin/pug-lint .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "puglint": "./node_modules/.bin/pug-lint ."
   },
   "repository": {
     "type": "git",
