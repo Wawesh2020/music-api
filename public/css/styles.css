@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;
+    font-size: 16px; 
+}
+
+
+h1 {
+    text-align: center; 
+    color:brown;
+}
+
+h2, h3, h4, h5, p {
+    text-align: center;
+    text-indent: inherit;
+}
+
+h2 {
+    color:darkgreen;
+}
+
+h3 {
+    color: cornflowerblue;
+}
